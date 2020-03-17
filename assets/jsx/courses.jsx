@@ -22,7 +22,7 @@ class App extends React.Component {
           <Search
             searchSubject={'courses'}
             locale="en"
-            initialState={{languages: ['fi']}}
+            initialState={{languages: ['en']}}
             Browse={BrowseCourses}
           />
         </div>
