@@ -32,9 +32,9 @@ section {
 
   #header-img {
     position: absolute;
-    filter: brightness(50%);
     &, img {
       width: 100%;
+      min-width: 100%;
     }
 
   }
