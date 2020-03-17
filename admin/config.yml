@@ -9,6 +9,22 @@ collections:
   editor:
     preview: false
   files:
+    - label: 'Navigation'
+      name: 'navigation'
+      file: '_data/nav.yml'
+      fields:
+        - label: 'Top navigation'
+          name: 'topnav'
+          widget: list
+          fields:
+            - { label: 'Link title', name: 'title', widget: 'string' }
+            - { label: 'Link URL', name: 'url', widget: 'string' }
+        - label: 'Organization link'
+          name: 'org'
+          widget: object
+          fields:
+            - { label: 'Organization URL', name: 'url', widget: 'string' }
+            - { label: 'Organization logo', name: 'logo_url', widget: 'image'}
     - label: 'Landing page'
       name: 'index'
       file: 'index.md'
