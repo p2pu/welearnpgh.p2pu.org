@@ -17,4 +17,17 @@ collections:
         - { label: 'Header', name: 'header_text', widget: 'string' }
         - { label: 'Hero', name: 'hero', widget: 'markdown' }
         - { label: 'Search title', name: 'search_title', widget: 'string' }
-        - { label: 'Image attribution', name: 'image_attribution', widget: 'markdown' }
+        - { label: 'Image attribution', name: 'image_attribution', widget: 'markdown', required: false }
+    - label: 'About page'
+      name: 'about'
+      file: 'about.md'
+      fields:
+        - { label: 'Title', name: 'title', widget: 'string'}
+        - { label: 'About', name: 'about', widget: 'markdown'}
+        - { label: 'FAQ title', name: 'faq_title', widget: 'string'}
+        - label: 'FAQ' 
+          name: 'faq'
+          widget: 'list' 
+          fields: 
+          - { label: 'Question', name: 'q', widget: 'string' }
+          - { label: 'Answer', name: 'a', widget: 'markdown' }
