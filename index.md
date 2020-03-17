@@ -1,6 +1,6 @@
 ---
 layout: index
-header_text: P2PU & the Ministry of Magic
+header_text: We Learn
 header_video: 'https://www.youtube.com/embed/bQqmIS7WQa8'
 hero: >
   # We Learn is social learning at the library.
@@ -13,10 +13,8 @@ hero: >
 
   Interested in helping us organize learning groups and other We Learn Programs?
   Check out our facilitation resources to learn more.
-search_title: Learning circles at Hogwarts
-image_attribution: >-
-  image CC-BY-SA
-  [Breakfast221](https://commons.wikimedia.org/wiki/User:Breakfast221)
+search_title: ' We Learn at Carnegie Library of Pittsburgh'
+image_attribution: 'a '
 bundles:
   - style
   - index
