@@ -31,3 +31,17 @@ collections:
           fields: 
           - { label: 'Question', name: 'q', widget: 'string' }
           - { label: 'Answer', name: 'a', widget: 'markdown' }
+    - label: 'Facilitate page'
+      name: facilitate
+      file: facilitate.md
+      fields:
+        - { label: 'Title', name: 'title', widget: 'string' }
+        - { label: 'Welcome message', name: 'welcome', widget: 'markdown' }
+        - { label: 'Title for resources', name: 'resources_title', widget: string }
+        - label: List of resources
+          name: resources
+          widget: list
+          fields:
+          - { label: 'Resource title', name: 'title', widget: 'string' }
+          - { label: 'Resource URL', name: 'url', widget: 'string' }
+          - { label: 'Resource image', name: 'image', widget: 'image' }
