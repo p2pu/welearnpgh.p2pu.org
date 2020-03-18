@@ -9,7 +9,8 @@ about: >-
   supporting community members to be the leaders.
 
 
-  See [our calendar for current listings](www.carnegielibrary.org/events).
+  See [our calendar for current
+  listings](https://www.carnegielibrary.org/events).
 
 
   Interested in volunteering to be a facilitator in Pittsburgh? Click here to
