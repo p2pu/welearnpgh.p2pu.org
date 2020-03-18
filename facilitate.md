@@ -17,12 +17,12 @@ resources_title: Facilitator resources
 resources:
   - title: Courses for learning circles
     image: /assets/img/courses.gif
-    url: /courses
+    url: 'https://www.p2pu.org/en/courses/'
   - title: Facilitator forum
     image: /assets/img/discourse.png
     url: 'https://community.p2pu.org'
     tag: forum
-  - title: Other facilitator resources (in English)
+  - title: Other facilitator resources
     image: /assets/img/p2pu.jpeg
     url: 'https://www.p2pu.org/en/facilitate'
 layout: facilitate
