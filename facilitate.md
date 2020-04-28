@@ -6,25 +6,22 @@ welcome: >-
   workshops.
 
 
-  We Learn programs are free, interest-driven, and adaptable to different
-  learning styles.We Learn can take different forms, including learning circles,
-  discussion groups, skill-shares, and more.
+  We Learn programs are free, interest-driven, and adaptable to different learning styles.We Learn can take different forms, including learning circles, discussion groups, skill-shares, and more.
 
 
-  If you’re interested in participating, explore the resources below and contact
-  us to get involved!
+  If you’re interested in participating, explore the resources below and contact us to get involved!
 resources_title: Facilitator resources
 resources:
   - title: Courses for learning circles
     image: /assets/img/courses.gif
-    url: 'https://www.p2pu.org/en/courses/'
+    url: https://www.p2pu.org/en/courses/
   - title: Facilitator forum
     image: /assets/img/discourse.png
-    url: 'https://community.p2pu.org'
+    url: https://community.p2pu.org
     tag: forum
-  - title: Other facilitator resources
+  - title: Pittsburgh facilitator online course
     image: /assets/img/p2pu.jpeg
-    url: 'https://www.p2pu.org/en/facilitate'
+    url: https://p2pu.github.io/pittsburgh-facilitate-course/
 layout: facilitate
 bundles:
   - style
