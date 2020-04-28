@@ -1,6 +1,6 @@
 ---
 layout: index
-header_text: We Learn" to "We Learn at Carnegie Library of Pittsburgh
+header_text: We Learn at Carnegie Library of Pittsburgh
 header_video: https://www.youtube.com/embed/bQqmIS7WQa8
 hero: >
   # We Learn is social learning at the library.
