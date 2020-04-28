@@ -9,15 +9,10 @@ about: >-
   supporting community members to be the leaders.
 
 
-  See [our calendar for current
-  listings](https://www.carnegielibrary.org/events).
+  See [our calendar for current listings](https://www.carnegielibrary.org/events).
 
 
-  Interested in volunteering to be a facilitator in Pittsburgh? Click here to
-  learn more.
-
-
-  Interested in bringing We Learn to your community? Click here to learn how.
+  Interested in volunteering to be a facilitator in Pittsburgh? [Click here](https://www.carnegielibrary.org/donate/volunteer-at-the-library/) to learn more.
 faq_title: Frequently asked questions
 faq:
   - q: What is We Learn?
@@ -26,8 +21,7 @@ faq:
       by community members.
 
 
-      We Learn programs involve a group of people who meet to learn something
-      together. These programs are:
+      We Learn programs involve a group of people who meet to learn something together. These programs are:
 
       - Open to the public
 
@@ -36,10 +30,7 @@ faq:
       - Recurring 
 
 
-      These learning groups may be led by a peer facilitator, a fellow community
-      member, or a person who has special skills or knowledge. In any instance,
-      the programs are meant to be flexible and to fit into each participants’
-      life experience.. 
+      These learning groups may be led by a peer facilitator, a fellow community member, or a person who has special skills or knowledge. In any instance, the programs are meant to be flexible and to fit into each participants’ life experience.. 
 
   - q: What personal information do I need to provide to participate?
     a: >
@@ -48,17 +39,11 @@ faq:
       with participants.
 
 
-      Participants do not need to create an account with Peer 2 Peer University.
-      You can sign up for a learning circle with your name and phone number
-      and/or email address. This information is only used by your facilitator to
-      contact you. If you would like to create a learning circle, then you need
-      to create a P2PU account. Additional questions related to user privacy can
-      be answered by contacting support@p2pu.org.
+      Participants do not need to create an account with Peer 2 Peer University. You can sign up for a learning circle with your name and phone number and/or email address. This information is only used by your facilitator to contact you. If you would like to create a learning circle, then you need to create a P2PU account. Additional questions related to user privacy can be answered by contacting support@p2pu.org.
   - q: Does it cost money to participate?
-    a: 'No, We Learn programs are always free.'
+    a: No, We Learn programs are always free.
   - q: What is Peer 2 Peer University?
-    a: >-
-      P2PU is a 501c3 non-profit organization registered in California in the
+    a: P2PU is a 501c3 non-profit organization registered in California in the
       United States, with team members in the US, Canada, and South Africa. The
       mission of the organization is to create equitable, empowering, and
       liberating alternatives to mainstream higher education. The majority of
@@ -69,7 +54,7 @@ faq:
       thriving nonformal education communities.
   - q: How can I get involved as a facilitator?
     a: |
-
+      
       Check out our [facilitator resources](/facilitate) to get started.
 layout: about
 bundles:
