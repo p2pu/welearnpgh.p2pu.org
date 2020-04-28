@@ -10,7 +10,7 @@ hero: >
 
 
   Interested in helping us organize learning groups and other We Learn Programs? Check out our facilitation resources to learn more.
-search_title: " We Learn at Carnegie Library of Pittsburgh"
+search_title: " "
 image_attribution: ""
 bundles:
   - style
