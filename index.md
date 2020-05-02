@@ -3,7 +3,7 @@ layout: index
 header_text: We Learn at Carnegie Library of Pittsburgh
 header_video: https://www.youtube.com/embed/bQqmIS7WQa8
 hero: >
-  # We Learn is social learning at the library.
+  ## We Learn is social learning at the library.
 
 
   Join your neighbors from across the community as we gather to learn something together. We Learn programs meet at a variety of library locations throughout Pittsburgh, and are free to join.

@@ -19,7 +19,7 @@ module.exports = {
           loader:  "babel-loader",
           options: {
             plugins: [
-              [ 
+              [
                 'ttag', {
                   extract: { output: 'i18n/poly.pot' },
                   resolve: { translations: `i18n/de.po` },
@@ -29,6 +29,18 @@ module.exports = {
             ],
           },
         },
+      },
+      {
+        test: /\.woff2?$|\.ttf$|\.eot$|\.svg$|\.png$/,
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              esModule: false,
+              extract: true,
+            }
+          }
+        ]
       },
       {
         test: /\.(css|sass|scss)$/,
