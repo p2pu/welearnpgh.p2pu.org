@@ -2,41 +2,15 @@
 layout: base
 ---
 <div class="page-wrapper">
-  <header id="page-header">
-    <div id="intro-section" class="container">
-      <div class="row">
-
-        <div class="col-12 col-sm-11 col-lg-8">
-          <div class="intro-text">
-            <h1>{{ page.header_text }}</h1>
-            <div>{{ page.hero | markdownify }}</div>
-          </div>
-          {% if page.image_attribution %}
-            <div id="attribution" class="col-12">
-              {{ page.image_attribution | markdownify }}
-            </div>
-          {% endif %}
-        </div>
-
-        <div class="col-12 col-sm-8 col-lg-5 video">
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="{{page.header_video}}" allowfullscreen></iframe>
-          </div>
-        </div>
-
+  {% include {{page.header}} page=page %}
+  <section id="learning-circles" class="container">
+    <div class="row">
+      <div class="col-12 mb-3">
+        <h1>{{ page.search_title }}</h1>
       </div>
     </div>
-  </header>
-
-  <section id="learning-circles">
-    <div class="container">
-      <div class="row">
-        <div class="col-12 mb-3">
-          <h2>{{ page.search_title }}</h2>
-        </div>
-      </div>
-      <div id="learning-circle-search"></div>
-    </div>
+    <div id="learning-circle-search"></div>
   </section>
 </div>
 <!-- -->
+
