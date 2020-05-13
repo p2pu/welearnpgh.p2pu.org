@@ -41,10 +41,10 @@ collections:
         - { label: 'Title', name: 'title', widget: 'string'}
         - { label: 'About', name: 'about', widget: 'markdown'}
         - { label: 'FAQ title', name: 'faq_title', widget: 'string'}
-        - label: 'FAQ' 
+        - label: 'FAQ'
           name: 'faq'
-          widget: 'list' 
-          fields: 
+          widget: 'list'
+          fields:
           - { label: 'Question', name: 'q', widget: 'string' }
           - { label: 'Answer', name: 'a', widget: 'markdown' }
     - label: 'Facilitate page'

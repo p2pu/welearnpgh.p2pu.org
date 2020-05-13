@@ -21,10 +21,7 @@ section#facilitator-landing {
     border-left: 24px solid transparent;
     border-right: 24px solid transparent;
     border-top: 18px solid #FFBC1A;
-  }
-
-  .welcome-text {
-    margin: $padding-md 0;
+    z-index: 1;
   }
 
   .modal.fade.in {
@@ -237,6 +234,15 @@ section#facilitator-resources {
     display: flex;
     justify-content: flex-end;
     align-items: center;
+  }
+}
+
+section#lets-do-it {
+  background: linear-gradient(160deg, #FC7100 0%, #FC7100 50%, #FFBC1A 50%, #FFBC1A 100%);
+
+  .p2pu-btn {
+    color: #FC7100;
+    font-size: 1.2em;
   }
 }
 
