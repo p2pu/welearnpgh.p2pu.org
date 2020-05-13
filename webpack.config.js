@@ -60,18 +60,6 @@ module.exports = {
             }
           }
         ]
-      },
-      {
-        test: /\.woff2?$|\.ttf$|\.eot$|\.svg$|\.png$/,
-        use: [
-          {
-            loader: 'file-loader',
-            options: {
-              esModule: false,
-              extract: true,
-            }
-          }
-        ]
       }
     ]
   },
