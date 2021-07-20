@@ -4,7 +4,7 @@ header: pattern_header.html
 header_pattern: landing-banner.png
 header_image: landing-banner.jpg
 header_text: We Learn at Carnegie Library of Pittsburgh
-header_video: https://www.youtube.com/embed/bQqmIS7WQa8
+header_video: https://www.youtube.com/embed/mVBijcMqVDQ
 hero: >
   ## We Learn is social learning at the library.
 
