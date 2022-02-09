@@ -11,12 +11,12 @@ about: >-
 
   ###### Interested in upcoming events? 
 
-  ** 📅 [Visit our calendar](https://www.carnegielibrary.org/events) **
+  **📅 [Visit our calendar](https://www.carnegielibrary.org/events)**
 
 
   ###### Interested in facilitating learning circles in Pittsburgh?
 
-  ** 🙋 [Learn more](https://www.carnegielibrary.org/donate/volunteer-at-the-library/) about how to volunteer**
+  **🙋 [Learn more](https://www.carnegielibrary.org/donate/volunteer-at-the-library/) about how to volunteer**
 
 
   ###### **Interested in bringing the We Learn model to your library?** 
