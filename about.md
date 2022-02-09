@@ -9,17 +9,17 @@ about: >-
   supporting community members to be the leaders.
 
 
-  #####Interested in upcoming events? 
+  ###### Interested in upcoming events? 
 
   **📅 [Visit our calendar](https://www.carnegielibrary.org/events) 
 
 
-  #####Interested in facilitating learning circles in Pittsburgh?
+  ###### Interested in facilitating learning circles in Pittsburgh?
 
   **🙋 [Learn more](https://www.carnegielibrary.org/donate/volunteer-at-the-library/) about how to volunteer
 
 
-  ##### **Interested in bringing the We Learn model to your library?** 
+  ###### **Interested in bringing the We Learn model to your library?** 
 
   🏫 **[Download](https://github.com/p2pu/welearnpgh.p2pu.org/blob/gh-pages/We%20Learn%20Guide%20for%20Libraries.pdf) the "We Learn Guide for Libraries"**
 faq_title: Frequently asked questions
