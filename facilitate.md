@@ -13,7 +13,7 @@ welcome: >-
 resources_title: Facilitator resources
 resources:
   - title: Courses for learning circles
-    image: /assets/img/courses.gif
+    image: /assets/img/final_61fad7c5c07f1a004c2cda2f_676672.gif
     url: https://www.p2pu.org/en/courses/
   - title: Facilitator forum
     image: /assets/img/discourse.png
