@@ -12,12 +12,12 @@ about: >-
 
   ##### **Interested in bringing the We Learn model to your library?** 
 
-  🏫 **[Download](https://github.com/p2pu/welearnpgh.p2pu.org/blob/gh-pages/We%20Learn%20Guide%20for%20Libraries.pdf) the "We Learn Guide for Libraries"**
+  🏫 **[Download the "We Learn Guide for Libraries"](https://github.com/p2pu/welearnpgh.p2pu.org/blob/gh-pages/We%20Learn%20Guide%20for%20Libraries.pdf)** 
 
 
   ##### Interested in facilitating learning circles in Pittsburgh?
 
-  **🙋 [Learn more](https://www.carnegielibrary.org/donate/volunteer-at-the-library/) about how to volunteer**
+  **🙋 [Volunteer at CLP](https://www.carnegielibrary.org/donate/volunteer-at-the-library/)**
 
 
   ##### Interested in upcoming events? 
