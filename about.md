@@ -12,7 +12,7 @@ about: >-
 
   ##### **Interested in bringing the We Learn model to your library?** 
 
-  🏫 **[Download the "We Learn Guide for Libraries"](https://github.com/p2pu/welearnpgh.p2pu.org/blob/gh-pages/We%20Learn%20Guide%20for%20Libraries.pdf)** 
+  🏫 **[Download the "We Learn Guide for Libraries"](https://github.com/p2pu/welearnpgh.p2pu.org/blob/gh-pages/We%20Learn%20Staff%20Guide.pdf)** 
 
 
   ##### Interested in facilitating learning circles in Pittsburgh?
