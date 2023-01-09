@@ -1,13 +1,11 @@
 import React from 'react';
 import { render } from 'react-dom';
 
-import {Search, BrowseLearningCircles} from "p2pu-search-cards";
-import {LearningCircleSignup} from "p2pu-search-cards";
+import SearchProvider from 'p2pu-components/dist/Search/SearchProvider';
+import LearningCircleSearch from 'p2pu-components/dist/LearningCircles/LearningCircleSearch';
+import LearningCircleSignup from 'p2pu-components/dist/LearningCircleSignup/LearningCircleSignup';
 
-import "p2pu-search-cards/dist/build.css"
-import "p2pu-input-fields/dist/build.css"
-
-// import LearningCircleSignup from './components/learning-circle-signup';
+import "p2pu-components/dist/build.css"
 
 class App extends React.Component {
 
@@ -41,13 +39,14 @@ class App extends React.Component {
             /> 
         }
         <div className={this.state.selectedLearningCircle?'d-none':''}>
-          <Search
-            searchSubject={'learningCircles'}
+          <SearchProvider
             initialState={{team_id: 28}}
+            searchSubject={'learningCircles'}
             locale="en"
             onSelectResult={this.handleLearningCircleSelection}
-            Browse={BrowseLearningCircles}
-          />
+          >
+            <BrowseLearningCircles />
+          </SearchProvider>
         </div>
       </div>
     );

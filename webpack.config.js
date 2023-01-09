@@ -7,7 +7,6 @@ module.exports = {
   mode: 'production',
   entry: {
     index: './assets/jsx/index.jsx',
-    courses: './assets/jsx/courses.jsx',
     style: './assets/css/base.scss',
   },
   module: {
@@ -56,7 +55,12 @@ module.exports = {
           {
             loader: 'sass-loader',
             options: {
-              sourceMap: true
+              sourceMap: true,
+              sassOptions: {
+                includePaths: [
+                  path.resolve("./assets/css/"),
+                ]
+              }
             }
           }
         ]

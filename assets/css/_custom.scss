@@ -2,11 +2,9 @@
 
 COLOURS
 
-$gray-darker:           #515665;
 $gray-dark:             #707782;
 $gray:                  #AAB0BF;
 $gray-light:            #D3D8E6;
-$gray-lighter:          #F3F4F8;
 $gray-snow:             #FCFCFC;
 
 $p2pu-green:            #B7D500;
@@ -15,6 +13,10 @@ $p2pu-yellow:           #FFBC1A;
 $p2pu-orange:           #FC7100;
 
 */
+
+/* TODO colors not in theme anymore */
+$gray-darker:           #515665;
+$gray-lighter:          #F3F4F8;
 
 body {
   padding-top: 60px; /*navbar-height*/
