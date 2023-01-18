@@ -243,6 +243,12 @@ section#lets-do-it {
   .p2pu-btn {
     color: #FC7100;
     font-size: 1.2em;
+    background-color: #efefef;
+
+    &:hover {
+      background-color: #fff;
+      transition: all 0.3s ease;
+    }
   }
 }
 

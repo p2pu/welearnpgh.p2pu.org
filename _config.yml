@@ -5,3 +5,4 @@ exclude:
   - p2pu-components
   - p2pu-theme
   - node_modules
+  - .bundler

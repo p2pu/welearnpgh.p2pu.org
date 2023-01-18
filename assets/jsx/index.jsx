@@ -43,9 +43,10 @@ class App extends React.Component {
             initialState={{team_id: 28}}
             searchSubject={'learningCircles'}
             locale="en"
+            defaultImageUrl="/assets/img/p2pu-ogimg-default.jpg"
             onSelectResult={this.handleLearningCircleSelection}
           >
-            <BrowseLearningCircles />
+            <LearningCircleSearch />
           </SearchProvider>
         </div>
       </div>
