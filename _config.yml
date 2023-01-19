@@ -1,3 +1,8 @@
 title: We Learn
 description: We Learn
 language: en
+exclude:
+  - p2pu-components
+  - p2pu-theme
+  - node_modules
+  - .bundler
