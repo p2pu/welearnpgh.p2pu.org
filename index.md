@@ -17,5 +17,4 @@ search_title: " "
 image_attribution: ""
 bundles:
   - style
-  - index
 ---
